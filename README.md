@@ -1,5 +1,10 @@
 # React Notebooks
 
+[![GitHub Pages](https://img.shields.io/github/pages/status/SagarBiswas-MultiHAT/React-Notebooks?style=for-the-badge)](https://sagarbiswas-multihat.github.io/React-Notebooks/)
+[![Release](https://img.shields.io/github/v/release/SagarBiswas-MultiHAT/React-Notebooks?style=for-the-badge)](https://github.com/SagarBiswas-MultiHAT/React-Notebooks/releases)
+![Last commit](https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/React-Notebooks?style=for-the-badge)
+[![License](https://img.shields.io/github/license/SagarBiswas-MultiHAT/React-Notebooks?style=for-the-badge)](LICENSE)
+
 This repository contains my complete React learning notes in 3 PDF volumes.
 I wrote these notes while learning step by step, so the style is simple and practical.
 If someone is new to React, this repo can be used like a full roadmap from beginner to building real mini-projects.
