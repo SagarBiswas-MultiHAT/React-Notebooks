@@ -52,7 +52,7 @@ body {
 .site-header,
 .site-footer,
 .layout {
-    width: min(1100px, 92vw);
+    width: 92%;
     margin-inline: auto;
 }
 
